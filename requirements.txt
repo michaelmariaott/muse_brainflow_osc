@@ -1,0 +1,5 @@
+brainflow==5.7.0
+nptyping==1.4.4
+numpy==1.24.2
+python-osc==1.8.1
+typish==1.9.3
